@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!-- Header with Animation -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Hi+There!+I'm+Jatin+Choudhury+👋;🔥+AI+%7C+ML+%7C+Deep+Learning+Enthusiast+🤖;🎯+Passionate+about+Object+Detection+%26+Reinforcement+Learning!">
